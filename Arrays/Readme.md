@@ -20,3 +20,7 @@ Sort Array By Parity II
 https://leetcode.com/problems/factorial-trailing-zeroes/
 
 Factorial Trailing Zeroes
+
+https://leetcode.com/problems/intersection-of-two-arrays-ii/
+
+Intersection of Two Arrays II
