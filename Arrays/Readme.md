@@ -24,3 +24,8 @@ Factorial Trailing Zeroes
 https://leetcode.com/problems/intersection-of-two-arrays-ii/
 
 Intersection of Two Arrays II
+
+https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+
+Search in Rotated Array
+
