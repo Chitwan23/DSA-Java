@@ -29,3 +29,7 @@ https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 
 Search in Rotated Array
 
+https://leetcode.com/problems/three-consecutive-odds/submissions/1306094822/?envType=daily-question&envId=2024-07-01
+
+Three Consecutive Odds
+
