@@ -33,3 +33,7 @@ https://leetcode.com/problems/three-consecutive-odds/submissions/1306094822/?env
 
 Three Consecutive Odds
 
+https://leetcode.com/problems/missing-number/description/
+
+Missing Number
+
