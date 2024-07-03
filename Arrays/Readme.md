@@ -37,3 +37,8 @@ https://leetcode.com/problems/missing-number/description/
 
 Missing Number
 
+https://leetcode.com/problems/find-pivot-index/description/
+
+Find Pivot Index
+
+
