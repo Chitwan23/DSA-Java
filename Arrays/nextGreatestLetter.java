@@ -1,27 +1,14 @@
 class Solution {
-    public char nextGreatestLetter(char[] letters, char target) {
-        int n = letters.length;
-        int frst = 0;
-        int last = n-1;
-        if (target>=letters[last]){
-            return letters[0];
-
+    public int minDifference(int[] nums) {
+       if(nums.length <= 4) {
+            return 0;
         }
-        
-        while(frst<=last){
-            
-            int mid = frst+ (last-frst)/2;
-        
-            if (letters[mid]<=target){
-                frst= mid+1;
-            }
-            else{
-                last= mid-1;
-            }
-
+        Arrays.sort(nums);
+        int ans = nums[nums.length - 1] - nums[0];
+        for(int i = 0; i <= 3; i++) {
+            ans = Math.min(ans, nums[nums.length - (3 - i) - 1] - nums[i]);
         }
-        return letters[frst];
-
-        
+        return ans;
     }
+    
 }
