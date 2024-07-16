@@ -5,3 +5,7 @@ Find First and Last Position of Element
 https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 
 Find Smallest Letter Greater Than Target
+
+https://leetcode.com/problems/find-in-mountain-array/description/
+
+Find in Mountain Array
