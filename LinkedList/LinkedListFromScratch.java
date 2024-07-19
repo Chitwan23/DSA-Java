@@ -62,6 +62,25 @@ public class Linkedlist {
         size--;
     }
 	
+	public void InsertatIndex(int index, int data) {
+		Node node = new Node( data);
+		if (Head == null) {
+			System.out.println("String Empty");
+		}
+		 if (index == 0) {
+	            node.next = Head;
+	            Head = node;
+	        } 
+		 else {
+		Node temp= Head;
+		for(int i =0; i<index-1;i++ ) {
+			temp= temp.next;
+		}
+		node.next = temp.next;
+		temp.next = node;
+		size--;}
+		
+	}
 	
 	public static void main(String args[]) {
 		Linkedlist list = new Linkedlist();
@@ -78,6 +97,8 @@ public class Linkedlist {
 		System.out.println();
 		list.display();
 		list.delete(3);
+		list.InsertatIndex(4, 99);
+		list.InsertatIndex(0, 6);
 		System.out.println();
 		list.display();
 	}
