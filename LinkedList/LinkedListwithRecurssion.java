@@ -21,7 +21,7 @@ public class RecursLinkedL {
 
    
    
-   private Node insert(int index) {
+   private Node insert(Node head, int index , int data) {
        if (index < 0) {
            System.out.println("Index out of bounds");
            return head;
@@ -39,18 +39,33 @@ public class RecursLinkedL {
        return head;
    }
 	    
-		   
-	   }
+   public void displaydata() {
+	   display(head);
+	   System.out.print("END");
    }
+   public void display(Node head) {
+	   if(head==null) {
+		   return ;
+	   }
+	   System.out.println(head.data +"->");
+	  
+	   display(head.next);
+   }
+		   
+	   
+   
    
    
 	
 
 	public static void main(String[] args) {
 		RecursLinkedL List = new RecursLinkedL();
-		List.insert(6);
+		List.insertAtIndex(1,8);
+		List.insertAtIndex(2, 6);
+		List.insertAtIndex(0, 7);
+		List.displaydata();
 		
 
 	}
 
-}}
+}
