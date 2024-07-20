@@ -47,7 +47,7 @@ public class RecursLinkedL {
 	   if(head==null) {
 		   return ;
 	   }
-	   System.out.println(head.data +"->");
+	   System.out.print(head.data +"->");
 	  
 	   display(head.next);
    }
@@ -60,9 +60,9 @@ public class RecursLinkedL {
 
 	public static void main(String[] args) {
 		RecursLinkedL List = new RecursLinkedL();
-		List.insertAtIndex(1,8);
-		List.insertAtIndex(2, 6);
-		List.insertAtIndex(0, 7);
+		List.insertAtIndex(0,8);
+		List.insertAtIndex(1, 6);
+		List.insertAtIndex(2, 7);
 		List.displaydata();
 		
 
