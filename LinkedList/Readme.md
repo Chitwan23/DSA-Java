@@ -6,5 +6,9 @@ Remove Duplicates from Sorted List
 
 https://leetcode.com/problems/linked-list-cycle/submissions/1329290086/
 
-LinkedList Cycle
+Linked List Cycle
+
+https://leetcode.com/problems/linked-list-cycle-ii/
+
+Linked List Cycle II
 
