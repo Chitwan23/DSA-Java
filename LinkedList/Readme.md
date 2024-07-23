@@ -16,4 +16,9 @@ https://leetcode.com/problems/middle-of-the-linked-list/description/
 
 Middle of the LinkedList 
 
+https://leetcode.com/problems/happy-number/
+
+Happy Number 
+
+
 
