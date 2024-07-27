@@ -1,4 +1,4 @@
-**https://leetcode.com/problems/sort-an-array/**
+https://leetcode.com/problems/sort-an-array/
 
 Sort an Array
 
