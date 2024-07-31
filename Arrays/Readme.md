@@ -49,6 +49,10 @@ https://leetcode.com/problems/sort-the-people/description/
 
 Sort the People
 
+https://leetcode.com/problems/minimum-number-game/
+
+Minimum Number Game
+
 
 
 
