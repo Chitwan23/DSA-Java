@@ -53,6 +53,10 @@ https://leetcode.com/problems/minimum-number-game/
 
 Minimum Number Game
 
+https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/
+
+Minimum Deletions To Make String Balanced
+
 
 
 
