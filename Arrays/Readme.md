@@ -57,6 +57,10 @@ https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/
 
 Minimum Deletions To Make String Balanced
 
+https://leetcode.com/problems/number-of-senior-citizens/
+
+Number of Senior Citizens
+
 
 
 
