@@ -61,6 +61,10 @@ https://leetcode.com/problems/number-of-senior-citizens/
 
 Number of Senior Citizens
 
+https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/description/
+
+Can Be Equal
+
 
 
 
