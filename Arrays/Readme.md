@@ -65,6 +65,10 @@ https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/descr
 
 Can Be Equal
 
+https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/
+
+Minimum Swaps
+
 
 
 
