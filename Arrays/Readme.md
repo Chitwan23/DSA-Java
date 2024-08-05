@@ -69,6 +69,10 @@ https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/descript
 
 Minimum Swaps
 
+https://leetcode.com/problems/number-of-senior-citizens/description/
+
+Number of Senior Citizens
+
 
 
 
