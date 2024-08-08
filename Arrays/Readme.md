@@ -69,6 +69,10 @@ https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/descript
 
 Minimum Swaps
 
+https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/
+
+Divide an Array Into Subarrays With Minimum Cost
+
 
 
 
