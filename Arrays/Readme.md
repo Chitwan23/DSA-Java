@@ -73,6 +73,10 @@ https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i
 
 Divide an Array Into Subarrays With Minimum Cost
 
+https://www.geeksforgeeks.org/problems/key-pair5616/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
+
+Pair With Given Sum
+
 
 
 
